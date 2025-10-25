@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @matias-chaves.
 - 👀 I’m interested in solve everyday problems in the most easiest way.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently studying computer engineering.
 - 📫 You can also reach me on mc89py@gmail.com
